@@ -5,7 +5,7 @@ Project aims to determine whether twitter tweets, more specially words within ea
 
 Click [here](https://drive.google.com/drive/folders/1a1phKW5u2E70kRPEufCCluQaegW14FVO?usp=sharing) to go to the Python project and download it. Owing to Github size limit, the project is uploaded to google drive instead.
 
-Items to download:
+Items to download to run the program:
 1. Data folder (with Bitcoin_tweets.csv and CBBTCUSD.csv)
 2. Structured Data folder (empty folder)
 3. Unstructured Data folder (empty folder)
